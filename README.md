@@ -1,5 +1,4 @@
 # Generate Persistence Mapping (Entities) by Database Schema
-Generate Persistence Mapping (Entities) by Database Schema
 Ah, the infamous stereotype about developers being lazy! Let’s dispel that myth and dive into the intriguing world of efficiency in software development. You see, it’s not about laziness; it’s about finding the simplest and most efficient ways to get things done. In our fast-paced world, time is of the essence, and completing tasks quickly and accurately is paramount.
 
 So, picture this: you’re knee-deep in software development, and one of the most time-consuming tasks is dealing with boilerplate code. I mean, who enjoys duplicating entire database tables just to convert them into entities? Certainly not me! And assuming you’re using a nifty object-relational mapper like Hibernate (ORM), there has to be a smarter way, right?
